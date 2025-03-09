@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**C9rol1ne/C9rol1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Carolina**, a passionate AI enthusiast and data scientist constantly exploring new technologies and ideas. 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Background in **Artificial Intelligence** and data science.
+- 📊 Working with **Power BI** for data visualization and analytics.
+- 🤖 Passionate about **machine learning, deep learning, and NLP**.
+- 🌱 Currently learning more about **web scraping**.
+- 👩‍💻 Looking for collaborations in **AI, data analysis, and technical writing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00758F?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Connect with Me
+- ✉️ Reach me at **carolina.rojano2002@gmail.com**
+
+Let's build something amazing together! 🚀
+

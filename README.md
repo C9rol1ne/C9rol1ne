@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Carolina**, a passionate AI enthusiast and d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Connect with Me
-- ✉️ Reach me at **carolina.rojano2002@gmail.com**
+- ✉️ Reach me at **crojano274@gmail.com**
 
 Let's build something amazing together! 🚀
 
